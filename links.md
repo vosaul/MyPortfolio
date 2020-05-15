@@ -15,8 +15,10 @@ https://blog.fritzing.org/     (kmorgenstern)
 https://www.konabos.com/    WP => Jekyll       (akshaysura)
 https://nivaron.netlify.app/ (theme "Forest")   (Pfaustin)
 https://fafazahir.netlify.app/    Jekyll + CSS grid  (fafazahir)
+https://mylaptopstands.com/ 
 
 CSS Grid:
 https://www.urela-agents.com/ 
 http://saulyak.info/as/
 http://www.larissa.com.ua/art/
+
