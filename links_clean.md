@@ -20,3 +20,4 @@ http://saulyak.info/as/
 http://www.larissa.com.ua/art/
 https://hip-ball.cloudvent.net/blog/
 https://dm-gitlab.netlify.app/
+https://mlops-github.com/
