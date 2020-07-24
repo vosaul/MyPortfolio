@@ -1,4 +1,4 @@
-http://mlops-github.com/
+https://mlops-github.com/
 https://nagalr.github.io/ 
 http://www.effectivetraffic.de/blog/
 https://tadat-podcast.herokuapp.com/
@@ -20,5 +20,6 @@ http://saulyak.info/as/
 http://www.larissa.com.ua/art/
 https://hip-ball.cloudvent.net/blog/
 https://dm-gitlab.netlify.app/
-https://mlops-github.com/
 http://hamiltondevco.com/
+https://teama.pro/
+
